@@ -54,7 +54,7 @@ Console.WriteLine("0. Sair");
 
 C# 10+
 
-.NET 6/7/8 (Console Application)
+.NET 9 (Console Application)
 
 ## 🎯 Objetivo
 

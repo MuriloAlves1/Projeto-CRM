@@ -12,3 +12,4 @@ C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\refint\P
 C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.pdb
 C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.genruntimeconfig.cache
 C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\ref\Projeto3.dll
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.sourcelink.json

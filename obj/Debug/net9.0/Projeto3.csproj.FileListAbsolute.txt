@@ -1,0 +1,14 @@
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.AssemblyInfoInputs.cache
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.AssemblyInfo.cs
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\bin\Debug\net9.0\Projeto3.exe
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\bin\Debug\net9.0\Projeto3.deps.json
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\bin\Debug\net9.0\Projeto3.runtimeconfig.json
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\bin\Debug\net9.0\Projeto3.dll
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\bin\Debug\net9.0\Projeto3.pdb
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.dll
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\refint\Projeto3.dll
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.pdb
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\Projeto3.genruntimeconfig.cache
+C:\Users\Murilo\source\repos\Projetos-Console\Projeto3\obj\Debug\net9.0\ref\Projeto3.dll
